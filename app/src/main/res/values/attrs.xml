@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="FontSetSeekBar">
+        <!--进度线颜色-->
+        <attr name="line_color" format="color" />
+        <!--进度线大小-->
+        <attr name="line_size" format="dimension" />
+        <!--进度线左边距-->
+        <attr name="line_marginLeft" format="dimension" />
+        <!--进度线右边距-->
+        <attr name="line_marginRight" format="dimension" />
+        <!--刻度高-->
+        <attr name="cursor_height" format="dimension" />
+        <!--刻度宽-->
+        <attr name="cursor_width" format="dimension" />
+        <!--刻度颜色-->
+        <attr name="cursor_color" format="color" />
+        <!--刻度点击响应范围-->
+        <attr name="cursor_clickRadius" format="dimension" />
+        <!--刻度字体颜色-->
+        <attr name="line_textColor" format="color" />
+        <!--刻度字体大小-->
+        <attr name="line_textSize" format="dimension" />
+        <!--刻度字体距离进度线上边距-->
+        <attr name="line_textMarginTop" format="dimension" />
+    </declare-styleable>
+
+
+
+</resources>
