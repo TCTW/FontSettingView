@@ -12,6 +12,8 @@ import android.view.View;
 import android.widget.FrameLayout;
 
 import androidx.annotation.NonNull;
+//如果项目未使用androidx则需要导入v4包的ViewDragHelper
+//android.support.v4.widget.ViewDragHelper;
 import androidx.customview.widget.ViewDragHelper;
 
 import com.rex.fontsetting.R;
